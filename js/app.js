@@ -67,40 +67,6 @@ Player.prototype.handleInput = function(allowedKey) {
     }
 }
 
-
-
-
-
-/*Player.prototype.handleInput = function(key) {
-   if (key === 'left') {
-       if (this.x > 50) {
-           this.x -= 101;
-       }
-   }
-   if (key === 'up') {
-       if (this.y > 100) {
-           this.y -= 83;
-       }
-       else {
-           this.resetPosition();
-       }
-   }
-   if (key === 'right') {
-       if (this.x < 350) {
-           this.x += 101;
-       }
-   }
-   if (key === 'down') {
-       if (this.y < 400) {
-           this.y += 83;
-       }
-   }
-}*/
-
-
-
-
-
 // Now instantiate your objects.
 // Place all enemy objects in an array called allEnemies
 // Place the player object in a variable called player
