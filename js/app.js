@@ -33,6 +33,7 @@ Enemy.prototype.update = function(dt) {
     this.checkCollisions(this, player);
 }
 
+// Compare enemy and player positions to check for collision
 Enemy.prototype.isColliding = function(enemy, player) {
    return !(player.left > enemy.right  ||
             player.right < enemy.left  ||
