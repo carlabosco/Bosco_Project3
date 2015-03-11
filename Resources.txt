@@ -1,0 +1,5 @@
+Udacity forum for Project 3
+Udacity HTML5 Game Development videos
+Office Hours: Debugging in Chrome Dev Tools
+github.com/jvojens2/frontend-nanodegree-arcade-game
+github.com/jacoblipson/Frogger

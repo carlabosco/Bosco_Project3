@@ -1,6 +1,6 @@
 frontend-nanodegree-arcade-game
 ===============================
 
-Students should use this rubric: https://www.udacity.com/course/viewer#!/c-ud015/l-3072058665/m-3072588797
+Game Instructions:
 
-for self-checking their submission.
+Your goal is to safely move the boy character across the screen so he can reach the water. To get there, move the directional arrows and avoid being hit by bugs. If a bug hits you, you will be sent back to your initial position. 
